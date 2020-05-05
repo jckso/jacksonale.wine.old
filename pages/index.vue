@@ -1,16 +1,11 @@
 <template>
   <div>
     <logo />
-    <h1 class="title">Nuxt.js & Netlify CMS Starter</h1>
-    <h2 class="subtitle">Truly fantastic. Sometimes I astound even myself.</h2>
+    <h1 class="title">Jackson Alewine</h1>
+    <h2 class="subtitle">idk how this works</h2>
     <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
     <a href="http://i.ncredibly.online">Twitter</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
-    <div class="deploy-button">
-      <a
-        href="https://app.netlify.com/start/deploy?repository=https://github.com/xdesro/nuxt-netlify-cms-starter"
-      >
-        <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
       </a>
     </div>
   </div>
