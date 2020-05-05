@@ -3,8 +3,8 @@
     <logo />
     <h1 class="title">Jackson Alewine</h1>
     <h2 class="subtitle">idk how this works</h2>
-    <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
-    <a href="http://i.ncredibly.online">Twitter</a>
+    <a href="https://instagram.com/jacksonalewine">Instagram</a>
+    <a href="https://www.snapchat.com/add/jackson_alewine">Snapchat</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
       </a>
     </div>
