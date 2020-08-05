@@ -5,6 +5,7 @@
     <h2 class="subtitle">idk how this works</h2>
     <a href="https://instagram.com/jacksonalewine">Instagram</a>
     <a href="https://www.snapchat.com/add/jackson_alewine">Snapchat</a>
+    <a href="mailto:mail@jacksonale.wine">Mail</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
       </a>
     </div>
